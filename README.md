@@ -1,4 +1,4 @@
-# Purism: In-TCU Dequantization for Quantized-Weight GEMM
+# Purism: Hardware Dequantization for Energy-Efficient LLM Inference on Embedded GPUs
 
 Purism extends the tensor core unit (TCU) of the [Vortex](https://github.com/vortexgpgpu/vortex) v2.3 RISC-V GPGPU
 so that quantized-weight GEMM runs without SIMT dequantization instructions.
